@@ -21,6 +21,7 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## Cryptocurrency/Blockchain
 
 ## DevOps
+* mgaruccio
 
 ## Erlang/Elixir
 
@@ -29,6 +30,7 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## DevOps
 
 ## Linux
+* mgaruccio
 
 ## PHP
 
@@ -41,6 +43,7 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## MSSQL
 
 ## Windows
+* mgaruccio
 
 ## Mac
 
